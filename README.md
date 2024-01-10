@@ -2,7 +2,7 @@
 
 ##SCREEN GIF <hr>
 
-![](/public/images/chtroom.mp4)
+![](/public/images/cht.gif)
 
 ##SCREEN VIEW <hr>
 
